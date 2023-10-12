@@ -1,16 +1,32 @@
-# chat_messenger
+<h1 align="center" id="title">Chature - A simple Text Base app</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/imtangim/chat_app/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Welcome to Chature - the app that proves you don't need to call to stay connected; texting is the new black! 📱💬 Ditch the phone calls and embrace the world of hassle-free witty and emoji-filled conversations. We're here to help you master the art of digital communication one message at a time. 📲😀 Whether you're discussing coding conundrums sharing funny memes or just keeping up with friends and family our Flutter-powered Firebase-fueled chat app will make sure your fingers never run out of things to type. It's like a never-ending game of digital charades! 🎮 So why wait? Start typing away because in our world texting is king. Plus it's less awkward than a voicemail. 🚀💬</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./assets/1.png" alt="project-screenshot" width="200" height="300/">   <img src="https://raw.githubusercontent.com/imtangim/chat_app/master/assets/1.png" alt="project-screenshot" width="200" height="300/"> <img src="./assets/3.png" alt="project-screenshot" width="200" height="300/"> <img src="./assets/4.JPG" alt="project-screenshot" width="600" height="500/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+  
+<h2>🧐 Features</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here're some of the project's best features:
+
+*   Firebase Authetication
+*   Firebase Firestore
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Firebase
+*   Firestore
+*   Flutter
+
+<h2>💖Like my work?</h2>
+
+Contact with me<p>https://t.me/tangim4103</p>
